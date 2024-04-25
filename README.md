@@ -1,4 +1,6 @@
-These are test results from a dataset with 29,000 image pairs, captured on the camera RGB + TIR camera described here. 
+This is from a RGB-2-TIR image-to-image conversion class project at the University of Utah. ECE6960 with Professor Rajesh Menon.
+
+Above test results from a dataset with 29,000 image pairs, captured on the camera RGB + TIR camera described here. 
 As a baseline, we used the popular pix-to-pix architecture from https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix. 
 @inproceedings{CycleGAN2017,
   title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks},
