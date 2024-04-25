@@ -1,3 +1,15 @@
+These are test results from a dataset with 29,000 image pairs, captured on the camera RGB + TIR camera described here. 
+As a baseline, we used the popular pix-to-pix architecture from https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix. 
+@inproceedings{CycleGAN2017,
+  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks},
+  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
+  booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on},
+  year={2017}
+}
+
+One modification we tried was using dropout. When trained using dropout, some percentage of neurons is randomly deactivated on each forward pass. This forces the neuron to learn redundancies in its representation of the data, which can improve generalization to new, previously unseen inputs. It can also make the task more difficult for the network to learn.
+In these experiments, the dropout rate was set to 50%.
+Using dropout did not seem to have a significant impact on the results. However, we also tried a Resnet variant instead of the Unet on the same dataset and with the same test images. Results were distinctly different and in a number of cases better. So, this might be a direction worth pursuing going forward.
 So far, we only get decent test data results if we have very similar training data. None of the models are very robust to any kind of significant change in environment. And, I am skeptical of others showing off results out there. We haven't seen anyone else out there clearly showing they used significantly different test images from their training images. 
 Or, in some cases, maybe even just showed off training data. I'll be happy to stand corrected if someone posts indicative training and test data with their results.
 Working with dropout didn't seem to have a significant impact. However, the results of the trained ResNet model look promising to me. I think this direction is definitely worth further investigation.
