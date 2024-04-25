@@ -1,0 +1,1227 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/abstract/document/9663750">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2021 17th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)</dc:title>
+                <dc:identifier>DOI 10.1109/AVSS52988.2021.9663750</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Yawen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lu</foaf:surname>
+                        <foaf:givenName>Guoyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Computer vision</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Conferences</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Generative adversarial networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Image matching</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Inspection</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Surface reconstruction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Three-dimensional displays</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Bridging the Invisible and Visible World: Translation between RGB and IR Images through Contour Cycle GAN</dc:title>
+        <dcterms:abstract>Infrared Radiation (IR) images that capture the emitted IR signals from surrounding environment have been widely applied to pedestrian detection and video surveillance. However, there are not many textures that appeared on thermal images as compared to RGB images, which brings enormous challenges and difficulties in various tasks. Visible images cannot capture scenes in the dark and night environment due to the lack of light. In this paper, we propose a Contour GAN-based framework to learn the cross-domain representation and also map IR images with visible images. In contrast to existing structures of image translation that focus on spectral consistency, our framework also introduces strong spatial constraints, with further spectral enhancement by illuminance contrast and consistency constraints. Designating our method for IR and RGB image translation, it can generate high-quality translated images. Extensive experiments on near IR (NIR) and far IR (thermal) datasets demonstrate superior performance for quantitative and visual results.</dcterms:abstract>
+        <dc:date>2021-11</dc:date>
+        <z:shortTitle>Bridging the Invisible and Visible World</z:shortTitle>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/9663750</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:03</dcterms:dateSubmitted>
+        <bib:pages>1-8</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2021 17th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4/9663750.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/9663750</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0957417423024648">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0957-4174"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boroujeni</foaf:surname>
+                        <foaf:givenName>Sayed Pedram Haeri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Razi</foaf:surname>
+                        <foaf:givenName>Abolfazl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_16"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Generative Adversarial Network (GAN)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image translation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thermal images</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Unmanned aerial vehicle (UAV)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Wildfire monitoring</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>IC-GAN: An Improved Conditional Generative Adversarial Network for RGB-to-IR image translation with applications to forest fire monitoring</dc:title>
+        <dcterms:abstract>This paper introduces a novel Deep Learning (DL) architecture for inferring temperature information from aerial true-color RGB images by transforming them into Infrared Radiation (IR) domain. This work is motivated by a few facts. First, off-the-shelf contemporary drones are typically equipped only with regular cameras. Second, IR heat-mapping cameras are costly and heavy for payload-limited drones. Third, additional communication channels and power supply would be needed when including IR cameras. Finally, IR cameras provide lower resolution and shorter distance ranges than RGB cameras. Therefore, learning-based translation of aerial IR recordings to RGB images can be extremely useful not only for new tests but also for offline processing of the currently available forest fire datasets with RGB images. We offer an Improved Conditional-Generative Adversarial Network (IC-GAN), where matched IR images are used as a condition to guide the translation process by the generator. The U-Net-based generator is concatenated with a mapper module to transform the output into a stack of diverse color spaces with learnable parameters. To avoid the unnecessary penalization of pixel-level disparities and achieve structural similarity, we include clustering alignment to the loss function. The proposed framework is compared against several state-of-the-art methods, including U-Net, Efficient U-Net, GAN, and Conditional-GAN from both subjective (human perception) and objective evaluation perspectives. The results support our method’s efficacy, demonstrating a significant improvement of around 6% in PSNR, 15% in UQI, 9% in SSIM, and 23% in IoU metrics.</dcterms:abstract>
+        <dc:date>2024-03-15</dc:date>
+        <z:shortTitle>IC-GAN</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0957417423024648</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:11</dcterms:dateSubmitted>
+        <bib:pages>121962</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0957-4174">
+        <prism:volume>238</prism:volume>
+        <dc:title>Expert Systems with Applications</dc:title>
+        <dc:identifier>DOI 10.1016/j.eswa.2023.121962</dc:identifier>
+        <dcterms:alternative>Expert Systems with Applications</dcterms:alternative>
+        <dc:identifier>ISSN 0957-4174</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/16/S0957417423024648.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/S0957417423024648</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/abstract/document/7168367">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2015 IEEE International Conference on Computational Photography (ICCP)</dc:title>
+                <dc:identifier>DOI 10.1109/ICCPHOT.2015.7168367</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Huixuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xiaopeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhuo</foaf:surname>
+                        <foaf:givenName>Shaojie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Feng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kutulakos</foaf:surname>
+                        <foaf:givenName>Kiriakos N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shen</foaf:surname>
+                        <foaf:givenName>Liang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <link:link rdf:resource="#item_6"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cameras</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Crosstalk</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image color analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image restoration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Kernel</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Lenses</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sensors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>High Resolution Photography with an RGB-Infrared Camera</dc:title>
+        <dcterms:abstract>A convenient solution to RGB-Infrared photography is to extend the basic RGB mosaic with a fourth filter type with high transmittance in the near-infrared band. Unfortunately, applying conventional demosaicing algorithms to RGB-IR sensors is not possible for two reasons. First, the RGB and near-infrared image are differently focused due to different refractive indices of each band. Second, manufacturing constraints introduce crosstalk between RGB and IR channels. In this paper we propose a novel image formation model for RGB-IR cameras that can be easily calibrated, and propose an efficient algorithm that jointly addresses three restoration problems–channel deblurring, channel separation and pixel demosaicing–using quadratic image regularizers. We also extend our algorithm to handle more general regularizers and pixel saturation. Experiments show that our method produces sharp, full-resolution images of pure RGB color and IR.</dcterms:abstract>
+        <dc:date>2015-04</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/7168367</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:17</dcterms:dateSubmitted>
+        <bib:pages>1-10</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2015 IEEE International Conference on Computational Photography (ICCP)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/7168367.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/7168367</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/Tang et al. - 2015 - High Resolution Photography with an RGB-Infrared C.pdf"/>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cs.toronto.edu/%7Ehxtang/projects/infrared/main_rgbi.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://openaccess.thecvf.com/content_CVPRW_2019/html/PBVS/Iwashita_MU-Net_Deep_Learning-Based_Thermal_IR_Image_Estimation_From_RGB_Image_CVPRW_2019_paper.html">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iwashita</foaf:surname>
+                        <foaf:givenName>Yumi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakashima</foaf:surname>
+                        <foaf:givenName>Kazuto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rafol</foaf:surname>
+                        <foaf:givenName>Sir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stoica</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kurazume</foaf:surname>
+                        <foaf:givenName>Ryo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>MU-Net: Deep Learning-Based Thermal IR Image Estimation From RGB Image</dc:title>
+        <dc:date>2019</dc:date>
+        <z:shortTitle>MU-Net</z:shortTitle>
+        <z:libraryCatalog>openaccess.thecvf.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openaccess.thecvf.com/content_CVPRW_2019/html/PBVS/Iwashita_MU-Net_Deep_Learning-Based_Thermal_IR_Image_Estimation_From_RGB_Image_CVPRW_2019_paper.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:24</dcterms:dateSubmitted>
+        <bib:pages>0-0</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/Iwashita et al. - 2019 - MU-Net Deep Learning-Based Thermal IR Image Estim.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Iwashita_MU-Net_Deep_Learning-Based_Thermal_IR_Image_Estimation_From_RGB_Image_CVPRW_2019_paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/abstract/document/10201865">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2169-3536"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brenner</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reyes</foaf:surname>
+                        <foaf:givenName>Napoleon H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Susnjak</foaf:surname>
+                        <foaf:givenName>Teo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barczak</foaf:surname>
+                        <foaf:givenName>Andre L. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17"/>
+        <link:link rdf:resource="#item_12"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cameras</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature extraction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Multimodal</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>RGB-D</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>RGB-DT</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>RGB-T</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Robot sensing systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sensor fusion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sensor fusion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Systematics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>thermal</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thermal sensors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Three-dimensional displays</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>RGB-D and Thermal Sensor Fusion: A Systematic Literature Review</dc:title>
+        <dcterms:abstract>In the last decade, the computer vision field has seen significant progress in multimodal data fusion and learning, where multiple sensors, including depth, infrared, and visual, are used to capture the environment across diverse spectral ranges. Despite these advancements, there has been no systematic and comprehensive evaluation of fusing RGB-D and thermal modalities to date. While autonomous driving using LiDAR, radar, RGB, and other sensors has garnered substantial research interest, along with the fusion of RGB and depth modalities, the integration of thermal cameras and, specifically, the fusion of RGB-D and thermal data, has received comparatively less attention. This might be partly due to the limited number of publicly available datasets for such applications. This paper provides a comprehensive review of both, state-of-the-art and traditional methods used in fusing RGB-D and thermal camera data for various applications, such as site inspection, human tracking, fault detection, and others. The reviewed literature has been categorised into technical areas, such as 3D reconstruction, segmentation, object detection, available datasets, and other related topics. Following a brief introduction and an overview of the methodology, the study delves into calibration and registration techniques, then examines thermal visualisation and 3D reconstruction, before discussing the application of classic feature-based techniques and modern deep learning approaches. The paper concludes with a discourse on current limitations and potential future research directions. It is hoped that this survey will serve as a valuable reference for researchers looking to familiarise themselves with the latest advancements and contribute to the RGB-DT research field.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:shortTitle>RGB-D and Thermal Sensor Fusion</z:shortTitle>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/10201865</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:37</dcterms:dateSubmitted>
+        <dc:description>Conference Name: IEEE Access</dc:description>
+        <bib:pages>82410-82442</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2169-3536">
+        <prism:volume>11</prism:volume>
+        <dc:title>IEEE Access</dc:title>
+        <dc:identifier>DOI 10.1109/ACCESS.2023.3301119</dc:identifier>
+        <dc:identifier>ISSN 2169-3536</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/10201865.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/10201865</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/Brenner et al. - 2023 - RGB-D and Thermal Sensor Fusion A Systematic Lite.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/ielx7/6287639/10005208/10201865.pdf?tp=&amp;arnumber=10201865&amp;isnumber=10005208&amp;ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwMjAxODY1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/abstract/document/10161210">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2023 IEEE International Conference on Robotics and Automation (ICRA)</dc:title>
+                <dc:identifier>DOI 10.1109/ICRA48891.2023.10161210</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Dong–Guw</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeon</foaf:surname>
+                        <foaf:givenName>Myung–Hwan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cho</foaf:surname>
+                        <foaf:givenName>Younggun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Ayoung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <link:link rdf:resource="#item_13"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Codes</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Estimation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image edge detection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Semantic segmentation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Supervised learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Three-dimensional displays</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Training</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Edge-guided Multi-domain RGB-to-TIR image Translation for Training Vision Tasks with Challenging Labels</dc:title>
+        <dcterms:abstract>The insufficient number of annotated thermal infrared (TIR) image datasets not only hinders TIR image-based deep learning networks to have comparable performances to that of RGB but it also limits the supervised learning of TIR image-based tasks with challenging labels. As a remedy, we propose a modified multidomain RGB to TIR image translation model focused on edge preservation to employ annotated RGB images with challenging labels. Our proposed method not only preserves key details in the original image but also leverages the optimal TIR style code to portray accurate TIR characteristics in the translated image, when applied on both synthetic and real world RGB images. Using our translation model, we have enabled the supervised learning of deep TIR image-based optical flow estimation and object detection that ameliorated in deep TIR optical flow estimation by reduction in end point error by 56.5% on average and the best object detection mAP of 23.9% respectively. Our code and supplementary materials are available at https://github.com/rpmsnu/sRGB-TIR.</dcterms:abstract>
+        <dc:date>2023-05</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/10161210</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:41</dcterms:dateSubmitted>
+        <bib:pages>8291-8298</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2023 IEEE International Conference on Robotics and Automation (ICRA)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/10161210.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/10161210</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/Lee et al. - 2023 - Edge-guided Multi-domain RGB-to-TIR image Translat.pdf"/>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2301.12689</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:16:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://openaccess.thecvf.com/content_eccv_2018_workshops/w35/html/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.html">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kniaz</foaf:surname>
+                        <foaf:givenName>Vladimir V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knyaz</foaf:surname>
+                        <foaf:givenName>Vladimir A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hladuvka</foaf:surname>
+                        <foaf:givenName>Jiri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kropatsch</foaf:surname>
+                        <foaf:givenName>Walter G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mizginov</foaf:surname>
+                        <foaf:givenName>Vladimir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_19"/>
+        <dc:title>ThermalGAN: Multimodal Color-to-Thermal Image Translation for Person Re-Identification in Multispectral Dataset</dc:title>
+        <dc:date>2018</dc:date>
+        <z:shortTitle>ThermalGAN</z:shortTitle>
+        <z:libraryCatalog>openaccess.thecvf.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openaccess.thecvf.com/content_eccv_2018_workshops/w35/html/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:17:10</dcterms:dateSubmitted>
+        <bib:pages>0-0</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings of the European Conference on Computer Vision (ECCV) Workshops</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/Kniaz et al. - 2018 - ThermalGAN Multimodal Color-to-Thermal Image Tran.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:17:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2072-4292/15/24/5661">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2072-4292"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Qiyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yan</foaf:surname>
+                        <foaf:givenName>Changda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_21"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>image-to-image translation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>infrared image</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>multi-modal controls</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>transformer</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>vector quantization</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>VQ-InfraTrans: A Unified Framework for RGB-IR Translation with Hybrid Transformer</dc:title>
+        <dcterms:abstract>Infrared (IR) images containing rich spectral information are essential in many fields. Most RGB-IR transfer work currently relies on conditional generative models to learn and train IR images for specific devices and scenes. However, these models only establish an empirical mapping relationship between RGB and IR images in a single dataset, which cannot achieve the multi-scene and multi-band (0.7–3 μm and 8–15 μm) transfer task. To address this challenge, we propose VQ-InfraTrans, a comprehensive framework for transferring images from the visible spectrum to the infrared spectrum. Our framework incorporates a multi-mode approach to RGB-IR image transferring, encompassing both unconditional and conditional transfers, achieving diverse and flexible image transformations. Instead of training individual models for each specific condition or dataset, we propose a two-stage transfer framework that integrates diverse requirements into a unified model that utilizes a composite encoder–decoder based on VQ-GAN, and a multi-path transformer to translate multi-modal images from RGB to infrared. To address the issue of significant errors in transferring specific targets due to their radiance, we have developed a hybrid editing module to precisely map spectral transfer information for specific local targets. The qualitative and quantitative comparisons conducted in this work reveal substantial enhancements compared to prior algorithms, as the objective evaluation metric SSIM (structural similarity index) was improved by 2.24% and the PSNR (peak signal-to-noise ratio) was improved by 2.71%.</dcterms:abstract>
+        <dc:date>2023/1</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>VQ-InfraTrans</z:shortTitle>
+        <z:libraryCatalog>www.mdpi.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2072-4292/15/24/5661</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:17:15</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+        <dc:description>Number: 24
+Publisher: Multidisciplinary Digital Publishing Institute</dc:description>
+        <bib:pages>5661</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2072-4292">
+        <prism:volume>15</prism:volume>
+        <dc:title>Remote Sensing</dc:title>
+        <dc:identifier>DOI 10.3390/rs15245661</dc:identifier>
+        <prism:number>24</prism:number>
+        <dc:identifier>ISSN 2072-4292</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/Sun et al. - 2023 - VQ-InfraTrans A Unified Framework for RGB-IR Tran.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2072-4292/15/24/5661/pdf?version=1701949641</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:17:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.springer.com/10.1007/s42979-023-02040-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2661-8907"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yuchuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ko</foaf:surname>
+                        <foaf:givenName>Yoon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Wonsook</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_22"/>
+        <dc:title>A Feasibility Study on Translation of RGB Images to Thermal Images: Development of a Machine Learning Algorithm</dc:title>
+        <dcterms:abstract>The thermal image is an important source of data in the fire safety research area, as it provides temperature information at pixel-level of a region. The combination of temperature value together with precise location information from thermal image coordinates enables a comprehensive and quantitative analysis of the combustion phenomenon of fire. However, it is not always easy to capture and save suitable thermal images for analysis due to several limitations, such as personnel load, hardware capability, and operating requirements. Therefore, it is necessary to have a substitution solution when thermal images cannot be captured in time. Inspired by the success of previous empirical and theoretical study of deep neural networks from deep learning on image-to-image translation tasks, this paper presents a feasibility study on translating RGB vision images to thermal images by a brand-new model of deep neural network. It is called dual-attention generative adversarial network (DAGAN). DAGAN features attention mechanisms proposed by us, which include both foreground and background attention, to improve the output quality for translation to thermal images. DAGAN was trained and validated by image data from fire tests with a different setup, including room fire tests, single item burning tests and open fire tests. Our investigation is based on qualitative and quantitative results that show that the proposed model is consistently superior to other existing imageto-image translation models on both thermal image patterns quality and pixel-level temperature accuracy, which is close to temperature data extracted from native thermal images. Moreover, the results of the feasibility study also demonstrate that the model could be further developed to assist in the analytics and estimation of more complicated flame and fire scenes based only on RGB vision images.</dcterms:abstract>
+        <dc:date>2023-07-29</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>A Feasibility Study on Translation of RGB Images to Thermal Images</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/s42979-023-02040-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:17:22</dcterms:dateSubmitted>
+        <bib:pages>555</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2661-8907">
+        <prism:volume>4</prism:volume>
+        <dc:title>SN Computer Science</dc:title>
+        <dc:identifier>DOI 10.1007/s42979-023-02040-4</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>SN COMPUT. SCI.</dcterms:alternative>
+        <dc:identifier>ISSN 2661-8907</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/22/Li et al. - 2023 - A Feasibility Study on Translation of RGB Images t.pdf"/>
+        <dc:title>Li et al. - 2023 - A Feasibility Study on Translation of RGB Images t.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007/s42979-023-02040-4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:17:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-72819-360-1">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>2020-</prism:volume>
+                <dc:identifier>ISBN 978-1-72819-360-1</dc:identifier>
+                <dc:identifier>DOI 10.1109/CVPRW50498.2020.00053</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abbott</foaf:surname>
+                        <foaf:givenName>Rachael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robertson</foaf:surname>
+                        <foaf:givenName>Neil M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinez del Rincon</foaf:surname>
+                        <foaf:givenName>Jesus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Connor</foaf:surname>
+                        <foaf:givenName>Barry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cameras</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Detection algorithms</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Gallium nitride</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Generators</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Object detection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Thermal sensors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Training</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Unsupervised object detection via LWIR/RGB translation</dc:title>
+        <dcterms:abstract>In this work, we present two new methods to overcome the lack of annotated long-wavelength infrared (LWIR) data by exploiting the abundance of similar RGB imagery. We introduce a novel unsupervised adaptation to the cycleGAN architecture for translating non-corresponding LWIR/RGB datasets. Our ultimate goal is high detection rates in the real LWIR imagery using only RGB labelled imagery for training detection algorithms. In our first experiment, we translate LWIR imagery to RGB, allowing us to use an RGB trained detection algorithm. We, thereby remove the need for labelled LWIR imagery for training detection algorithms. Experimental results show that our adaption helps to create synthetic RGB imagery with higher detection rates across two different datasets. We also find that combining the synthetic RGB and real LWIR imagery produces higher F1 scores on the RGB trained detection network. In our second experiment, we translate RGB to LWIR to fine-tune a network for detection in real LWIR imagery. This method produces the highest F1 scores out of the two methods with detection reaching up to 85.6%.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <z:language>eng</z:language>
+        <z:libraryCatalog>utah-primoprod.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://ieeexplore.ieee.org/document/9150837</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:20:07</dcterms:dateSubmitted>
+        <dc:description>Book Title: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+ISSN: 2160-7508</dc:description>
+        <bib:pages>407–415</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/26/Abbott et al. - 2020 - Unsupervised object detection via LWIRRGB transla.pdf"/>
+        <dc:title>Accepted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pureadmin.qub.ac.uk/ws/files/203150901/PBVS_paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-29 19:20:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.scopus.com/inward/record.url?scp=85052064772&amp;partnerID=8YFLogxK">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:9781532377914"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iwashita</foaf:surname>
+                        <foaf:givenName>Yumi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stoica</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakashima</foaf:surname>
+                        <foaf:givenName>Kazuto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kurazume</foaf:surname>
+                        <foaf:givenName>Ryo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torresen</foaf:surname>
+                        <foaf:givenName>Jim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_28"/>
+        <dc:title>Virtual Sensors Determined Through Machine Learning: 2018 World Automation Congress, WAC 2018</dc:title>
+        <dcterms:abstract>We propose a method that increases the capability of a conventional sensor, transforming it into an enhanced virtual sensor. This paper focuses on a virtual thermal Infrared Radiation (IR) sensor based on a conventional visual (RGB) sensor. The estimation of thermal IR images can enhance the ability of terrain classification, which is crucial for autonomous navigation of rovers. The estimate in IR from visual band has inherent limitations, as these are different bands, yet correlations between visual RGB and thermal IR images exist, as different terrains, which visually may appear different, also have different thermal inertia. This paper describes the developed deep learning-based algorithm that estimates thermal IR images from RGB images of terrains, providing the feasibility of the idea with average 1.21 error [degree Celsius].</dcterms:abstract>
+        <dc:date>2018-08-08</dc:date>
+        <z:shortTitle>Virtual Sensors Determined Through Machine Learning</z:shortTitle>
+        <z:libraryCatalog>Kyushu University</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.scopus.com/inward/record.url?scp=85052064772&amp;partnerID=8YFLogxK</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:53:43</dcterms:dateSubmitted>
+        <dc:description>Publisher: IEEE Computer Society</dc:description>
+        <bib:pages>318-321</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:9781532377914">
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>World Automation Congress Proceedings</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>2018-June</prism:volume>
+        <dc:title>2018 World Automation Congress, WAC 2018</dc:title>
+        <dc:identifier>DOI 10.23919/WAC.2018.8430480</dc:identifier>
+        <dc:identifier>ISSN 9781532377914</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_28">
+        <rdf:value>&lt;p&gt;Publisher Copyright:&lt;br/&gt;© 2018 TSI Press.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://drpress.org/ojs/index.php/fcis/article/view/2242">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2832-6024"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Weiqiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Peng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Song</foaf:surname>
+                        <foaf:givenName>Xiangying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_32"/>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>A Survey of Low-light Image Enhancement</dc:title>
+        <dcterms:abstract>With the higher requirements of computer vision image enhancement of low-light image has become an important research content of computer vision. Traditional low-light image enhancement algorithms can improve image brightness and detailed visibility to varying degrees, but due to their strict mathematical derivation, such methods have bottlenecks and are difficult to break through their limits. With the development of deep learning and the birth of large-scale data sets, low-light image enhancement based on deep learning has become the mainstream trend. In this paper, first of all, the traditional low-light image enhancement algorithms are classified, summarized the improvement process of the traditional method, then the image enhancement method based on the deep learning are introduced, at the same time on the network structure and is suitable for the method of combing the network part, after the introduction to the experiment database and enhance image evaluation criteria. Based on the discussion of the above situation, combined with the actual situation, this paper points out the limitations of the current technology, and predicts its development trend.</dcterms:abstract>
+        <dc:date>2022-10-30</dc:date>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://drpress.org/ojs/index.php/fcis/article/view/2242</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:55:17</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+        <bib:pages>88-92</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2832-6024">
+        <prism:volume>1</prism:volume>
+        <dc:title>Frontiers in Computing and Intelligent Systems</dc:title>
+        <dc:identifier>DOI 10.54097/fcis.v1i3.2242</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>FCIS</dcterms:alternative>
+        <dc:identifier>ISSN 2832-6024</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_30">
+        <rdf:value>[TLDR] The traditional low-light image enhancement algorithms are classified, the improvement process of the traditional method is summarized, and the image enhancement method based on the deep learning are introduced, suitable for the method of combing the network part and enhance image evaluation criteria.</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/32/Liu et al. - 2022 - A Survey of Low-light Image Enhancement.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/eacc/025957ef10e8c32f29f5fbaa4202ea366018.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:55:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Scholar Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/paper/A-Survey-of-Low-light-Image-Enhancement-Liu-Zhao/ecd2356afe95d60324861dd4eb7b09f71587e031</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:55:17</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://synthical.com/article/34a8f3ab-45d2-49b5-8776-54b5f95fbc3c">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Synthical</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khan</foaf:surname>
+                        <foaf:givenName>Md Azim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34"/>
+        <dc:title>Visible to Thermal image Translation for improving visual task in low light conditions</dc:title>
+        <dcterms:abstract>Several visual tasks, such as pedestrian detection and image-to-image translation, are challenging to accomplish in low light using RGB images. Heat variation of objects in thermal images can be used to overcome this. In this work, an end-to-end framework, which consists of a generative network and a detector network, is proposed to translate RGB image into Thermal ones and compare generated thermal images with real data. We have collected images from two different locations using the Parrot Anafi Thermal drone. After that, we created a two-stream network, preprocessed, augmented, the image data, and trained the generator and discriminator models from scratch. The findings demonstrate that it is feasible to translate RGB training data to thermal data using GAN. As a result, thermal data can now be produced more quickly and affordably, which is useful for security and surveillance applications.</dcterms:abstract>
+        <dc:date>2023-10-31T05:18:53.000Z</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://synthical.com/article/34a8f3ab-45d2-49b5-8776-54b5f95fbc3c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:56:30</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/34/34a8f3ab-45d2-49b5-8776-54b5f95fbc3c.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://synthical.com/article/34a8f3ab-45d2-49b5-8776-54b5f95fbc3c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:56:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2072-4292/13/16/3257">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Remote Sensing</dc:title>
+                <dc:identifier>DOI 10.3390/rs13163257</dc:identifier>
+                <prism:number>16</prism:number>
+                <dc:identifier>ISSN 2072-4292</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uddin</foaf:surname>
+                        <foaf:givenName>Mohammad Shahab</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoque</foaf:surname>
+                        <foaf:givenName>Reshad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Islam</foaf:surname>
+                        <foaf:givenName>Kazi Aminul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kwan</foaf:surname>
+                        <foaf:givenName>Chiman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gribben</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_36"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>attention GAN</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>image conversion</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mid-wave infrared (MWIR) videos</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ResNet</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>target detection and classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>video super-resolution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>YOLO</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Converting Optical Videos to Infrared Videos Using Attention GAN and Its Impact on Target Detection and Classification Performance</dc:title>
+        <dcterms:abstract>To apply powerful deep-learning-based algorithms for object detection and classification in infrared videos, it is necessary to have more training data in order to build high-performance models. However, in many surveillance applications, one can have a lot more optical videos than infrared videos. This lack of IR video datasets can be mitigated if optical-to-infrared video conversion is possible. In this paper, we present a new approach for converting optical videos to infrared videos using deep learning. The basic idea is to focus on target areas using attention generative adversarial network (attention GAN), which will preserve the fidelity of target areas. The approach does not require paired images. The performance of the proposed attention GAN has been demonstrated using objective and subjective evaluations. Most importantly, the impact of attention GAN has been demonstrated in improved target detection and classification performance using real-infrared videos.</dcterms:abstract>
+        <dc:date>2021/1</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.mdpi.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2072-4292/13/16/3257</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:57:55</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+        <dc:description>Number: 16
+Publisher: Multidisciplinary Digital Publishing Institute</dc:description>
+        <bib:pages>3257</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/36/Uddin et al. - 2021 - Converting Optical Videos to Infrared Videos Using.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2072-4292/13/16/3257/pdf?version=1629279311</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-30 03:57:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>RGB-2-TIR</dc:title>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/abstract/document/9663750"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S0957417423024648"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/abstract/document/7168367"/>
+        <dcterms:hasPart rdf:resource="https://openaccess.thecvf.com/content_CVPRW_2019/html/PBVS/Iwashita_MU-Net_Deep_Learning-Based_Thermal_IR_Image_Estimation_From_RGB_Image_CVPRW_2019_paper.html"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/abstract/document/10201865"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/abstract/document/10161210"/>
+        <dcterms:hasPart rdf:resource="https://openaccess.thecvf.com/content_eccv_2018_workshops/w35/html/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.html"/>
+        <dcterms:hasPart rdf:resource="https://www.mdpi.com/2072-4292/15/24/5661"/>
+        <dcterms:hasPart rdf:resource="https://link.springer.com/10.1007/s42979-023-02040-4"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-72819-360-1"/>
+        <dcterms:hasPart rdf:resource="http://www.scopus.com/inward/record.url?scp=85052064772&amp;partnerID=8YFLogxK"/>
+        <dcterms:hasPart rdf:resource="https://drpress.org/ojs/index.php/fcis/article/view/2242"/>
+        <dcterms:hasPart rdf:resource="https://synthical.com/article/34a8f3ab-45d2-49b5-8776-54b5f95fbc3c"/>
+        <dcterms:hasPart rdf:resource="https://www.mdpi.com/2072-4292/13/16/3257"/>
+    </z:Collection>
+</rdf:RDF>
